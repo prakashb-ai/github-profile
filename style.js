@@ -1,0 +1,1 @@
+document.getElementsById("#s").style.padding="50px";
